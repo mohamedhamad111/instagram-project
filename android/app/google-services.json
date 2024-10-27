@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161371956100",
+    "project_id": "instagram-project-fe12e",
+    "storage_bucket": "instagram-project-fe12e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161371956100:android:b51f01c8b282dd843bb3d1",
+        "android_client_info": {
+          "package_name": "com.example.instagram_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIeebhPOBZDMImEiBEX2DVuv2EgZ4GpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161371956100:android:a012211078e0a5d93bb3d1",
+        "android_client_info": {
+          "package_name": "com.firebase.instagram_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIeebhPOBZDMImEiBEX2DVuv2EgZ4GpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
