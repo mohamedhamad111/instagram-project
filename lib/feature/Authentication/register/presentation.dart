@@ -11,7 +11,18 @@ class register extends StatefulWidget {
 class _registerState extends State<register> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
+      body: Padding(
+        padding: const EdgeInsets.only(top: 80.0,left: 20,right: 20),
+        child: Center(
+          child: Column(
+            children: [
+              Text('Register'),
+            ],
+          ),
+        ),
+      ),
+      
 
     );
   }
